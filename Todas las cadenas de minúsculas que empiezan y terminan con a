@@ -1,2 +1,2 @@
-Todas las cadenas de minúsculas que empiezan y terminan con a
+//Todas las cadenas de minúsculas que empiezan y terminan con a
 cadena -> a([a-z])*a
