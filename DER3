@@ -1,0 +1,4 @@
+//Todas las cadenas de dígitos que no contiene cero al principio excepto cero.
+excepcion -> 0
+cad -> (([1-9])([0-9])*)
+cadena -> excepcion|cad
