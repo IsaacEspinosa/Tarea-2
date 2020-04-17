@@ -1,0 +1,3 @@
+//Los números octales del lenguaje C
+digito -> [0-7]
+octal -> (digito)+
