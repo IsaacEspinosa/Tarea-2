@@ -1,0 +1,2 @@
+//Todas las cadenas que comienzan o finalizan con a o ambas
+(([a-z A-Z])*a)|(a([a-z A-Z])*)|(a([a-z A-Z])*a)
