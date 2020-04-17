@@ -1,0 +1,2 @@
+//Las cadenas de a y b que no contienen la subcadena bba
+cadena -> (a|b(a(a|bb))*(b(b)?)?
